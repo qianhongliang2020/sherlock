@@ -9,6 +9,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 from argparse import ArgumentParser, RawDescriptionHelpFormatter
 
+
 pool = list()
 
 def get_rank(domain_to_query, dest):
